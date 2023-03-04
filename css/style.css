@@ -64,7 +64,7 @@ h2 {
 
 /* Banner */
 #main-banner {
-  height: 60vh;
+  height: 70vh;
   background-size: cover;
   padding-top: 15vh;
 }
@@ -103,7 +103,7 @@ h2 {
   background-color: #536DFE;
   color: #fff;
   padding-top: 50px;
-  height: 500px;
+  height: 425px;
 }
 
 #about-section h2 {
