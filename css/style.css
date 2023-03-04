@@ -87,7 +87,8 @@ h2 {
 }
 
 #banner-info p {
-  background-color: #092540;
+  background-color: #536DFE;
+  color: #fff;
   font-weight: bold;
   width: 200px;
   margin-right: auto;
@@ -258,6 +259,13 @@ footer input, footer textarea {
     margin-bottom: 20px;
     width: 100%;
     display: block;
+}
+
+footer .enviar {
+  background-color: #fff;
+  color: #536DFE;
+  font-size: 15px;
+  font-weight: bold;
 }
 
 footer .detail {
